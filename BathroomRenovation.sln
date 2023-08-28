@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BathroomRenovation", "BathroomRenovation\BathroomRenovation.csproj", "{B07E2922-479E-4C4C-ABF5-F072F2D7CD76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BathroomRenovation.Contracts", "BathroomRenovation.Contracts\BathroomRenovation.Contracts.csproj", "{708F5B6E-C986-41DC-944A-0246DBD05970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BathroomRenovation.Core", "BathroomRenovation.Core\BathroomRenovation.Core.csproj", "{E3B244E3-DBA0-4753-A17E-1E9DD33FF28D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BathroomRenovation.Domain", "BathroomRenovation.Domain\BathroomRenovation.Domain.csproj", "{99FEC78E-537D-4858-B4C4-768954CB8172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BathroomRenovation.Data", "BathroomRenovation.Data\BathroomRenovation.Data.csproj", "{08CF9D4A-CD67-480D-85D9-07D17544F6A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BathroomRenovation.Tests", "BathroomRenovation.Tests\BathroomRenovation.Tests.csproj", "{36412E20-A180-44D5-AF47-3716720D83EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07E2922-479E-4C4C-ABF5-F072F2D7CD76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07E2922-479E-4C4C-ABF5-F072F2D7CD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07E2922-479E-4C4C-ABF5-F072F2D7CD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07E2922-479E-4C4C-ABF5-F072F2D7CD76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708F5B6E-C986-41DC-944A-0246DBD05970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708F5B6E-C986-41DC-944A-0246DBD05970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708F5B6E-C986-41DC-944A-0246DBD05970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708F5B6E-C986-41DC-944A-0246DBD05970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B244E3-DBA0-4753-A17E-1E9DD33FF28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B244E3-DBA0-4753-A17E-1E9DD33FF28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B244E3-DBA0-4753-A17E-1E9DD33FF28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B244E3-DBA0-4753-A17E-1E9DD33FF28D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FEC78E-537D-4858-B4C4-768954CB8172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FEC78E-537D-4858-B4C4-768954CB8172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FEC78E-537D-4858-B4C4-768954CB8172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FEC78E-537D-4858-B4C4-768954CB8172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CF9D4A-CD67-480D-85D9-07D17544F6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CF9D4A-CD67-480D-85D9-07D17544F6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CF9D4A-CD67-480D-85D9-07D17544F6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CF9D4A-CD67-480D-85D9-07D17544F6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36412E20-A180-44D5-AF47-3716720D83EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36412E20-A180-44D5-AF47-3716720D83EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36412E20-A180-44D5-AF47-3716720D83EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36412E20-A180-44D5-AF47-3716720D83EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F57A43F-5702-49E6-AFEB-95B2B9106EC0}
+	EndGlobalSection
+EndGlobal
